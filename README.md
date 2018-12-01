@@ -9,5 +9,3 @@ The Pond
 
 [![screenshot](https://raw.github.com/Zolmeister/pond/master/publishing/screenshot-menu-640-400.png)](http://thepond.zolmeister.com)
 [![screenshot](https://raw.github.com/Zolmeister/pond/master/publishing/screenshot-playing-640-400.png)](http://thepond.zolmeister.com)
-
-
